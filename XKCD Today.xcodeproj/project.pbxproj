@@ -13,6 +13,7 @@
 		E95D678D23E0919C00AB3320 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E95D678B23E0919C00AB3320 /* Main.storyboard */; };
 		E95D678F23E091A000AB3320 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E95D678E23E091A000AB3320 /* Assets.xcassets */; };
 		E95D679223E091A000AB3320 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E95D679023E091A000AB3320 /* LaunchScreen.storyboard */; };
+		E95D679A23E0926C00AB3320 /* ComicLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95D679923E0926C00AB3320 /* ComicLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E95D678E23E091A000AB3320 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E95D679123E091A000AB3320 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E95D679323E091A000AB3320 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E95D679923E0926C00AB3320 /* ComicLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComicLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E95D678523E0919C00AB3320 /* AppDelegate.swift */,
 				E95D678723E0919C00AB3320 /* SceneDelegate.swift */,
 				E95D678923E0919C00AB3320 /* ViewController.swift */,
+				E95D679923E0926C00AB3320 /* ComicLoader.swift */,
 				E95D678B23E0919C00AB3320 /* Main.storyboard */,
 				E95D678E23E091A000AB3320 /* Assets.xcassets */,
 				E95D679023E091A000AB3320 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				E95D678A23E0919C00AB3320 /* ViewController.swift in Sources */,
 				E95D678623E0919C00AB3320 /* AppDelegate.swift in Sources */,
+				E95D679A23E0926C00AB3320 /* ComicLoader.swift in Sources */,
 				E95D678823E0919C00AB3320 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
