@@ -40,6 +40,74 @@
 			<key>uniqueIdentifier</key>
 			<string>1C92E78F-BFE0-44D5-999A-F752CDCC4537</string>
 		</dict>
+		<key>BFF23555-D295-41E1-9CDC-789C484C47DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BFF23555-D295-41E1-9CDC-789C484C47DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XKCD Today project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XKCD Today</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build XKCD Today</string>
+			<key>timeStartedRecording</key>
+			<real>602009129.97836399</real>
+			<key>timeStoppedRecording</key>
+			<real>602009151.73439395</real>
+			<key>title</key>
+			<string>Build XKCD Today</string>
+			<key>uniqueIdentifier</key>
+			<string>BFF23555-D295-41E1-9CDC-789C484C47DF</string>
+		</dict>
+		<key>E9DC50D4-D1FE-42C4-A7A8-6781D318916C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9DC50D4-D1FE-42C4-A7A8-6781D318916C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XKCD Today project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XKCD Today</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build XKCD Today</string>
+			<key>timeStartedRecording</key>
+			<real>602009193.55801797</real>
+			<key>timeStoppedRecording</key>
+			<real>602009193.73085594</real>
+			<key>title</key>
+			<string>Build XKCD Today</string>
+			<key>uniqueIdentifier</key>
+			<string>E9DC50D4-D1FE-42C4-A7A8-6781D318916C</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
