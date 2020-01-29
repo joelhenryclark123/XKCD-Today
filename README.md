@@ -2,7 +2,7 @@
 Displays the most recent [Xkcd](https://xkcd.com) comic!
 ---
 
-[Screenshot](gh-assets/lone-view.png)
+![Screenshot](gh-assets/lone-view.png)
 
 ## View
 
